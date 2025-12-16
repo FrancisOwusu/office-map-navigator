@@ -192,3 +192,7 @@ If you encounter issues:
 2. Ensure all dependencies are installed (`npm install`)
 3. Check browser console for errors
 4. Verify location permissions are enabled
+
+## Deployment
+
+This project is configured for deployment on Vercel. The build process uses TypeScript strict mode for type checking.
